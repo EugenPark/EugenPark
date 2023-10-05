@@ -1,6 +1,6 @@
 👋 Hi, I’m Eugene\
 👀 I’m interested in coding, as well as playing football and all other kinds of sports\
-🎓 I’m currently studying Information Systems B.Sc. at the University of Cologne\
+🎓 I’m currently studying Software Engineering M.Sc. at KTH\
 📫 You can reach me via email (eugenepark2001@gmail.com) or linkedin (https://www.linkedin.com/in/eugene-park-3465941b5/)
 
 <!---
